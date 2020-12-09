@@ -16,3 +16,4 @@ screenshots
 ![그림F2](https://user-images.githubusercontent.com/73240194/101627008-11372f00-3a61-11eb-8f85-98e151f7e074.png)
 ![그림F3](https://user-images.githubusercontent.com/73240194/101627019-15fbe300-3a61-11eb-881c-e518841606e5.png)
 ![그림V1](https://user-images.githubusercontent.com/73240194/101627035-1a280080-3a61-11eb-9e88-8ec10b3341f5.png)
+![그림V2](https://user-images.githubusercontent.com/75665063/101647691-5fa5f700-3a7c-11eb-89d8-0e4e63be179a.png)
